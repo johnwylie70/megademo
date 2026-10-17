@@ -2,11 +2,15 @@
 
 [![MIT licence](https://img.shields.io/badge/licence-MIT-green)](LICENSE)
 
-[![The Megademo title, with the Circuitry mark over a neon grid](images/poster.jpg)](https://www.youtube.com/watch?v=VIDEO_ID)
+[![The Megademo title, with the Circuitry mark over a neon grid](images/poster.jpg)](https://youtu.be/6fKMwrOik5k)
 
-Back in the 1980s and 1990s developers made demos like this on computers like the C64 and Amiga. It was a fun and creative artform. This one is made in [Circuitry Studio](https://www.circuitry.dev): a chiptune and twelve parts of effects cut to it, in one file of JavaScript, with the same demo in Python beside it. It lasts 3 minutes 5 seconds, then goes round again.
+Back in the 1980s and 1990s computers were fun. Young pioneering developers, inspired by the games and demos on machines like the C64 and Amiga, made their own, using code, graphics and sound in creative ways. Many people learned to code that way, and used the trigonometry they had learned at school to push the hardware further than anyone thought it would go. It was a creative artform.
 
-**[Watch it on YouTube →](https://www.youtube.com/watch?v=VIDEO_ID)**
+So I made Circuitry Studio: an IDE with all the tools to make creative coding fun and visual, using simple Python or JavaScript. It comes with libraries for graphics, a synthesizer and sound engine, and visual effects. It can also export a video in perfect frame sync with the music, to share online.
+
+This Megademo is made in [Circuitry Studio](https://www.circuitry.dev) in that spirit: a chiptune and twelve parts of effects cut to it, in one file of JavaScript, with the same demo in Python beside it. It lasts 3 minutes 5 seconds, then goes round again.
+
+**[Watch it on YouTube →](https://youtu.be/6fKMwrOik5k)**
 
 It opens as an old computer would, with a few words typed on its screen that say what a demo was. Then the title glitches in, copper bars run over water, a plasma folds in a kaleidoscope, a tunnel, a cube over a chessboard floor, an arcade game that plays itself, a lava lamp, a rotozoom, an equaliser, greetings, a finale with a new trick on every beat, and credits that crawl away into the stars.
 
